@@ -1,0 +1,11 @@
+{
+    "accuracy": 89.4209,
+    "macro_precision": 14.2806,
+    "macro_recall": 13.5047,
+    "macro_f1_score": 13.7562,
+    "weighted_precision": 92.9444,
+    "weighted_recall": 89.4209,
+    "weighted_f1_score": 90.6388,
+    "validation_images": 10861,
+    "number_of_classes": 38
+}
